@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-09T08:54:25 IST" name="Command line suite" finished-at="2023-04-09T08:55:22 IST" duration-ms="57773">
+    <groups>
+    </groups>
+    <test started-at="2023-04-09T08:54:25 IST" name="Command line test" finished-at="2023-04-09T08:55:22 IST" duration-ms="57773">
+      <class name="AllTests.ToVerifyLoginTest">
+        <test-method is-config="true" signature="Start()[pri:0, instance:AllTests.ToVerifyLoginTest@245b4bdc]" started-at="2023-04-09T08:54:22 IST" name="Start" finished-at="2023-04-09T08:54:25 IST" duration-ms="3024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="LoginTest()[pri:1, instance:AllTests.ToVerifyLoginTest@245b4bdc]" started-at="2023-04-09T08:54:25 IST" name="LoginTest" finished-at="2023-04-09T08:54:29 IST" duration-ms="4541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="ClickOnProductTest()[pri:2, instance:AllTests.ToVerifyLoginTest@245b4bdc]" started-at="2023-04-09T08:54:29 IST" name="ClickOnProductTest" finished-at="2023-04-09T08:54:34 IST" duration-ms="4396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnProductTest -->
+        <test-method signature="To_verify_product_is_removingTest()[pri:3, instance:AllTests.ToVerifyLoginTest@245b4bdc]" started-at="2023-04-09T08:54:34 IST" name="To_verify_product_is_removingTest" finished-at="2023-04-09T08:55:20 IST" duration-ms="46423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_verify_product_is_removingTest -->
+        <test-method signature="LogoutTest()[pri:4, instance:AllTests.ToVerifyLoginTest@245b4bdc]" started-at="2023-04-09T08:55:20 IST" name="LogoutTest" finished-at="2023-04-09T08:55:22 IST" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+      </class> <!-- AllTests.ToVerifyLoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
